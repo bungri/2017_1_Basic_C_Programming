@@ -1,0 +1,11 @@
+﻿  source.c
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(41): warning C4020: 'FileToStr': 실제 매개 변수가 너무 많습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(86): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(98): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 05-1\lab 05-1\source.c(83): warning C4715: 'fsize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LAB 05-1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 05-1\Debug\LAB 05-1.exe
+  LAB 05-1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 05-1\Debug\LAB 05-1.pdb (Partial PDB)

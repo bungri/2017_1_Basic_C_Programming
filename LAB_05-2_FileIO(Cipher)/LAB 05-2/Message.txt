@@ -1,0 +1,5 @@
+Test message of 2017:03:25
+The grand campaign will begin 2017:03:25 06:30AM, at Yeungnam univ..
+The second line of message.
+The third line of message.
+		

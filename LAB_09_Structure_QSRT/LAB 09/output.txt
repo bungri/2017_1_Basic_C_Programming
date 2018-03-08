@@ -1,0 +1,26 @@
+
+initializedGalaxy (array of stars)
+Iphsi(333551)Uucqedpzpzw(283964)Lpqtxxvmdofshnl(335337)Caijssp(418389)Ksqmgopclhirq(457381)Jumsokfr(250432)Uiwve(183629)Lyrkmrtw(342282)Fwyspklqjucopv(110263)Pjheevqfork(370017)Bzksoivazfgwtq(496508)
+Slrfbzudcatpre(439462)Gqnhxq(295595)Ydkctex(368675)Mbaoutqqw(281342)Gawrjown(198015)Hqijndlsdpkv(290318)Noswelqouptts(394639)Xfbylcqefdt(219875)Ksomifi(491664)Kzbfhqdpspis(494254)
+Ojufsqwdvg(34834)Krwuwavaeryr(287131)Xofsxxosmugtdad(470295)Byquir(44193)Jqmmyxjdcrmkh(202716)Kduauxpyzp(332124)Ejyembktrbbfsg(424599)Kepwdawwzvcm(217501)Rpfixeixhl(454754)Kfciujinorurui(255071)
+Erzfqijzi(280055)Cdosmhylc(428349)Yulqxyufptyo(367133)Nzgky(498979)Jpnflz(294529)Ulhlqtvbemiccr(361954)Qfrefqccjg(296008)Agrsu(490313)Qyospijgcjsfqs(106660)Uqyrzjrzukwnra(365264)
+Mslggyt(54149)Zslfkzjdukvzp(28950)Hcjftfjlooklwab(135282)Qoqzr(159885)Ezfidjart(131321)Yjoxh(348852)Cmwymhcpanj(444291)Hlwnfwvcpnyvb(74214)Eeiaqjhulu(199915)Othrunkzpkxqh(95121)
+Qhteyuu(114577)Jokomffwdfp(85226)Kjtbxrs(213386)Bfxkzxofjp(217566)Tjwgitlvzll(281914)Hzxgzau(420300)Huebab(3012)Hhevtelspdltcr(182418)Twuqcp(481280)Ovqhsg(198565)
+Vbelmmmysmrkob(127279)Wcvoyogffvikf(449029)Zfekho(34124)Imdmuyb(365616)Thlyrgfhghl(101028)Lmjousgnh(260277)Frlamoqowcapb(303559)Dtgtmaemsx(454796)Lrchyl(417855)Ietldumceokvj(13796)
+Fbryfutoaxlig(377728)Smxnefz(383677)Nevldjrczbmszjp(288448)Ezpudbnlluqs(442872)Axushia(30857)Exggu(322764)Btwpacidwxqi(377197)Pjfgtabe(435290)Ffzgfyy(407930)Tgucl(161026)
+Rjhtawnblifmsp(66126)Gybjtqhsv(383287)Nbaxpfyzfvvmi(469964)Nizurecmfnwc(252785)Pfiwtm(151631)Atezapinscdr(446050)Fkazae(294719)Ennshh(228524)Bzcpyukkd(51874)Gibkbc(355760)
+Iviiqadm(109076)Txlpwdtwbduz(74729)Jxviolot(172698)Cyrhcdrwa(160411)Jaemxdd(279188)Ugeyqialhrtvk(80998)Aniealice(75089)Hrlac(424384)Uakwxu(188199)
+Quick sorting Galaxy...
+Time for quickSorting of array of stars : 0.343891 seconds
+Sorted Galaxy (array of stars) by Star_ID : 
+Xcbztt(0)Yshyonanbvdws(1)Xsyeethwq(2)Oqhnoryokdpwcj(3)Yubemjbqagnfgao(4)Eezumpwjzs(5)Piumigaknzo(6)Esbcjqfvwsir(7)Wfqvcep(8)Fwjpo(9)Svwtwijg(10)
+Vuwwmyj(11)Vzpuhhroznzc(12)Yfvslauhbjnktv(13)Rqkxxisztnpkq(14)Cgxpnupmpnnvixy(15)Momwnyyofuffyke(16)Wlbyarr(17)Nxwequg(18)Pqxdmrwjtf(19)Xjdayjrldrp(20)
+Nqrcsuqrkjk(21)Jnwlhnolcxmyjjw(22)Corye(23)Awmvcebgsf(24)Lhnjscy(25)Lksqmvehh(26)Vzufp(27)Udspomqcejiayhp(28)Dzwvwuao(29)Zulfmbb(30)
+Xlbdudxmwho(31)Axjtxtameqzgdih(32)Kenzh(33)Ldwicozgn(34)Tuiqbzk(35)Uikivpve(36)Pxogfoue(37)Xmtizdddgc(38)Buvgrm(39)Khohxktqj(40)
+Ypqpdwetrh(41)Oewvjshwwujvj(42)Wblvcavcpuniojp(43)Dydvjwttf(44)Ntfxhsacwqwa(45)Ftbscdpgvmyle(46)Wocwvploudz(47)Flnpirslevw(48)Elluaedwdzm(49)Scjgietzy(50)
+Ljcwgg(51)Bwrevecmz(52)Pspufokaa(53)Djoyusyh(54)Wwpftazzlt(55)Uwcoitgsrpd(56)Ebbxjurxhpr(57)Taxeyztmklj(58)Iafivkctmfjynev(59)Xcignwauqpnt(60)
+Etriefloinheg(61)Mxqicqfafxhpjc(62)Gziyuextq(63)Gednpezlrpae(64)Vuszxnq(65)Cxvahti(66)Ulovndqv(67)Wdmshkmkdigqn(68)Hppuqigovqrapal(69)Qfncsuoq(70)
+Lzqnwtjudfrlg(71)Gewjwjfknq(72)Aryngfrfzee(73)Unoapbxkhbwu(74)Jkqhkknhyfgztq(75)Iuzznbl(76)Kbxkwyjsjn(77)Wlwfsdqoaptz(78)Liwxccnmj(79)Eqzjjlc(80)
+Ywpdqmvgydkmo(81)Qxhqzxuqj(82)Yhdrrsflzaleb(83)Mohergrzaygpree(84)Zntsupvkc(85)Quwkopcl(86)Tljjzmdqljye(87)Fuvanjsj(88)Zjxrj(89)Uhxwolklb(90)
+Zxybb(91)Wgdsmrihyeq(92)Fxgxaawdgkd(93)Gpdbjzbozd(94)Trthsctzjp(95)Grvxkysnviftmh(96)Mqlndwcqcjtnu(97)Dpxbgsh(98)Sdfwuixyg(99)
+Selection sorting Galaxy bt name..

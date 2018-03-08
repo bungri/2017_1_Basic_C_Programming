@@ -1,0 +1,15 @@
+﻿  Thread_EventHandler.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\thread_eventhandler.cpp(39): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\thread_eventhandler.cpp(13): warning C4101: 'pFlagThreadTerminate' :참조되지 않은 지역 변수입니다.
+  Thread_EventGen.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\thread_eventgen.cpp(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\thread_eventgen.cpp(16): warning C4101: 'pFlagThreadTerminate' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\thread_eventgen.cpp(26): warning C4101: 'Event_dstAddr' :참조되지 않은 지역 변수입니다.
+  PriorityQueue.cpp
+  코드를 생성하고 있습니다...
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 13\lab 13\priorityqueue.cpp(80): warning C4715: 'insertPriQ_Event': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  main.cpp
+  Event.cpp
+  LAB 13.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 13\x64\Debug\LAB 13.exe
+  LAB 13.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 13\x64\Debug\LAB 13.pdb (Partial PDB)

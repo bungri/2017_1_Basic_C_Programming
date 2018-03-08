@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 06-2\lab 06-2\main.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 06-2\lab 06-2\main.cpp(35): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 'fscanf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 06-2\lab 06-2\main.cpp(49): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 'fscanf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 06-2\lab 06-2\main.cpp(25): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  LAB 06-2.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 06-2\Debug\LAB 06-2.exe
+  LAB 06-2.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 06-2\Debug\LAB 06-2.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+﻿  Thrd_PktGen.cpp
+d:\documents\visual studio 2017\projects\2017_lab\lab 12\lab 12\thrd_pktgen.cpp(32): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\visual studio 2017\projects\2017_lab\lab 12\lab 12\thrd_pktgen.cpp(13): warning C4101: 'pFlagThreadTerminate' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  main.cpp
+  Thrd_LinkTx.cpp
+  LAB 12.vcxproj -> D:\Documents\Visual Studio 2017\Projects\2017_LAB\LAB 12\Debug\LAB 12.exe
+  LAB 12.vcxproj -> D:\Documents\Visual Studio 2017\Projects\2017_LAB\LAB 12\Debug\LAB 12.pdb (Partial PDB)

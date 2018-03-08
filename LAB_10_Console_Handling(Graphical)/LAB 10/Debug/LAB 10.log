@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 10\lab 10\main.cpp(24): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 10\lab 10\main.cpp(24): warning C4101: 'base' :참조되지 않은 지역 변수입니다.
+c:\users\administrator\documents\visual studio 2017\projects\2017_01_lab\lab 10\lab 10\main.cpp(25): warning C4101: 'thickness' :참조되지 않은 지역 변수입니다.
+  LAB 10.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 10\Debug\LAB 10.exe
+  LAB 10.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2017_01_LAB\LAB 10\Debug\LAB 10.pdb (Partial PDB)

@@ -1,0 +1,17 @@
+﻿  Thread_PacketGenerator.cpp
+c:\users\it\desktop\shma\lab 11\lab 11\thread_packetgenerator.cpp(63): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_packetgenerator.cpp(31): warning C4101: 'link_id' :참조되지 않은 지역 변수입니다.
+  Thread_LinkTx.cpp
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(57): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(38): warning C4101: 'dst' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(38): warning C4101: 'nextHop' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(39): warning C4101: 'pktID' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(30): warning C4101: 'id' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(29): warning C4101: 'logFileName' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(38): warning C4101: 'src' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(24): warning C4101: 'errMsg' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(33): warning C4101: 'max_queue_capacity' :참조되지 않은 지역 변수입니다.
+c:\users\it\desktop\shma\lab 11\lab 11\thread_linktx.cpp(27): warning C4101: 'pThreadStatus' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  LAB 11.vcxproj -> C:\Users\IT\Desktop\SHMA\LAB 11\Debug\LAB 11.exe
+  LAB 11.vcxproj -> C:\Users\IT\Desktop\SHMA\LAB 11\Debug\LAB 11.pdb (Partial PDB)
